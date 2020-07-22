@@ -1,2 +1,2 @@
 config:
-  yml: branch springcloud master dev 
+  yml: branch springcloud master dev version=1
